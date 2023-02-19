@@ -1,0 +1,69 @@
+/* card background style */
+.triangle-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 50%;
+    background-color: #DCE1E0;
+  }
+  .triangle-card:hover {
+    background-color: #af8080;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  }
+
+.rectangle-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 50%;
+    background-color: #02a182;
+  }
+  
+  .rectangle-card:hover {
+    background-color: #218799;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  }
+
+.parallelogram-card {
+    box-shadow: 0 4px 8px 0 rgba(44, 177, 17, 0.2);
+    transition: 0.3s;
+    width: 50%;
+    background-color: #979501;
+  }
+  
+  .parallelogram-card:hover {
+    background-color: #f0b30b;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  }
+
+.rhombus-card {
+    box-shadow: 0 4px 8px 0 rgba(44, 177, 17, 0.2);
+    transition: 0.3s;
+    width: 50%;
+    background-color: #979501;
+  }
+  
+  .rhombus-card:hover {
+    background-color: #f00b7d;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  }
+.pentagon-card {
+    box-shadow: 0 4px 8px 0 rgba(44, 177, 17, 0.2);
+    transition: 0.3s;
+    width: 50%;
+    background-color: #979501;
+  }
+  
+  .pentagon-card:hover {
+    background-color: #810bf0;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  }
+.ellipse-card {
+    box-shadow: 0 4px 8px 0 rgba(44, 177, 17, 0.2);
+    transition: 0.3s;
+    width: 50%;
+    background-color: #979501;
+  }
+  
+  .ellipse-card:hover {
+    background-color: #00b7ff;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  }
