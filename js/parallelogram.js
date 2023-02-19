@@ -17,7 +17,7 @@ document.getElementById('btn-parallelogram').addEventListener('click', function 
 
 function getValueById(id){
     const stringValue = document.getElementById(id);
-    const numberValue = parseFloat(stringValue.value);
+            const numberValue = parseFloat(stringValue.value);
     return numberValue;
 }
 
